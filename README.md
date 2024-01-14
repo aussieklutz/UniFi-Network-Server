@@ -15,7 +15,7 @@ sudo mkdir -p /opt/unifi/db /opt/unifi/config
 3. Create the config files, and set your own strong password
 ```bash
 sudo cp init-mongo.js.example /opt/unifi/init-mongo.js
-sudo nano init-mongo.js
+sudo nano /opt/unifi/init-mongo.js
 nano .env
 ```
 4.  bring the server up once, and make sure there are no port conflicts.
