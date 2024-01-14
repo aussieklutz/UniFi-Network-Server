@@ -1,5 +1,5 @@
 # UniFi-Network-Server
-Dockerized UniFi Network Server + MongoDB (via LinuxServer.IO)
+Docker compose UniFi Network Server + MongoDB (via LinuxServer.IO)
 Combines the LinuxServer.IO docker image of the Unifi Network Application with one of the UniFi supported versions of MongoDB (4.4)
 
 ## Getting Started
